@@ -10,7 +10,7 @@ body {
 }
 
 #err404-body {
-  background-color: red;
+  background: red;
 }
 
 .white-background {
