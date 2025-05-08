@@ -11,10 +11,13 @@ body {
 }
 
 .white-box {
-  border-radius: 15px;
   background-color: rgb(250, 250, 250);
   width: 20em;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.white-box li {
+  text-align: center;
 }
 
 #err404-body {
